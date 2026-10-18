@@ -1,6 +1,6 @@
 # Clock Scenery — Privacy Policy (draft)
 
-Review before publication: confirm that MagiScan Inc. is the legal operator and that support@magiscan.app handles Clock Scenery requests. Set an effective date and publish this policy at a permanent public HTTPS address. This draft describes the current application; review it again if features or service providers change. Website hosting and external font processing also need to be confirmed before the website notice is finalized.
+Publication checklist: the owner confirmed MagiScan Inc. as the operator and support@magiscan.app as the support contact on October 18, 2026. Set an effective date and publish this policy at a permanent public HTTPS address. This draft describes the current application; review it again if features or service providers change. Website hosting and external font processing also need to be confirmed before the website notice is finalized. This checklist is editorial and must not appear in the published policy.
 
 ## Operator and scope
 
@@ -66,6 +66,6 @@ The accompanying website stores a language preference in your browser's local st
 
 We may update this policy when the app or our practices change. The published version will show its effective date.
 
-Contact: support@magiscan.app (confirm before publication).
+Contact: support@magiscan.app.
 
 Apple privacy information: https://www.apple.com/legal/privacy/

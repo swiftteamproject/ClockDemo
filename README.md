@@ -37,9 +37,13 @@ included. App screenshots use demonstration weather data.
 
 ## Before public release / App Store submission
 
-1. Replace the draft application-privacy notice with the final privacy policy
-   and give it a stable public URL.
-2. Confirm the public support channel. No personal email is included in the site.
+1. Serve `privacy-policy/index.html` at `/privacy-policy/` (or under the site's
+   subdirectory). Use its final HTTPS URL in App Store Connect and the app.
+   The page is in English and dated October 18, 2026. Review the hosting notice
+   against the deployed configuration. `PRIVACY-DRAFT.md` is editorial source,
+   not the public policy page.
+2. Support is support@magiscan.app; operator is MagiScan Inc., both confirmed by
+   the owner. No personal email is included in the site.
 3. When the app is publicly available, replace the release-preparation text and
    add the verified Mac App Store download link.
 4. Check the final domain on desktop and mobile, all seven languages, gallery,
